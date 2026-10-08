@@ -1,0 +1,38 @@
+.about{
+    padding: 120px 0;
+}
+
+.about__text{
+    width: 891px;
+    color: #141024;
+    text-align: left;
+    vertical-align: text-top;
+    font-family: jost;
+    font-size: 30px;
+}
+
+.about-items{
+    margin-top: 60px;
+    display: flex;
+    gap: 40px;
+}
+.about-item{
+    width: 260px;
+}
+
+.about-item__number{
+    color: #d52027;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 47px;
+    font-weight: 600;
+    font-family: Jost;
+}
+
+.about-item__text{
+    color: rgba(20,16,36,0.699999979071);
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 18px;
+    font-family: jost;
+}
